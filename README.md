@@ -8,6 +8,6 @@ to all Jackal workspaces, whether simulation, desktop, or on the robot's own hea
 ----
 
     roslaunch jackal_navigation odom_navigation_demo.launch
-====
+----
 
     roslaunch jackal_gazebo jackal_test.launch
